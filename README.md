@@ -13,12 +13,12 @@ Event page: [2026.devfest-berlin.de/vibe-lounge](https://2026.devfest-berlin.de/
 | 2 | 13:00 to 14:00 | Open build: pick any challenge |
 | 3 | 14:00 to 15:00 | Open build & showcase |
 
-No lounge over lunch (11:45 to 13:00). Each sprint is one batch: everyone starts and finishes together.
+Sprints start at 11:00, 13:00 and 14:00; come at the start of one. No lounge over lunch (11:45 to 13:00).
 
 ## Challenges
 
 All four run in every sprint, and they are free for every DevFest attendee. Pick whichever you like, or bring your own
-idea. Each one fits in a single sprint.
+idea. Each one is sized for a single sprint.
 
 1. **The Backyard Barista.** A Gemini barista that picks beans, roasts and milk for your taste, then a brew
    timer, a shopping list and a Firebase recipe journal.
@@ -43,7 +43,7 @@ idea. Each one fits in a single sprint.
 2. Open your challenge and sign in at [ai.studio/build](https://ai.studio/build).
 3. Start from the challenge prompt, then add one feature per prompt. Mentors in the room help when you get stuck.
 4. Publish to Cloud Run from AI Studio, or use Share for a quick public link. With a personal account and no Google
-   Cloud billing history, the free Starter Tier covers up to two apps with no credit card.
-5. A few people demo their live apps, and everyone claims the DevFest 2026 Vibe Lounge badge in the room.
+   Cloud billing history, the free Starter Tier covers up to two Cloud Run projects.
+5. A few people demo their live apps, and everyone can claim the DevFest 2026 Vibe Lounge badge in the room.
 
 Share what you built with **#DevFest**.
