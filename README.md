@@ -49,7 +49,11 @@ Pick the one you like, or bring your own idea. Each one is sized for a single sp
   Work laptops often block what AI Studio needs. 💻
 - A personal Google account (an @gmail.com address). Work and university accounts can block features or
   deployment. 🔑
+- Your phone, to open your app and share it. 📱
 - Your charger. 🔌
+
+Tip: sign in at [ai.studio/build](https://ai.studio/build) with your personal account before you come, so your sprint
+starts with building. 😉
 
 ## How a sprint works
 
