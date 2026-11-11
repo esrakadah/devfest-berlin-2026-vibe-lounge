@@ -1,7 +1,7 @@
 # DevFest Berlin 2026 Vibe Lounge
 
 Build a working app with Gemini in under an hour. Guided sprints at DevFest Berlin 2026, Saturday 14 November,
-SRH Berlin, 10:55 to 15:00. Led by [Esra Kadah](https://github.com/esrakadah).
+SRH Berlin, 11:00 to 15:00. Led by [Esra Kadah](https://github.com/esrakadah).
 
 Event page: [2026.devfest-berlin.de/vibe-lounge](https://2026.devfest-berlin.de/vibe-lounge/)
 
@@ -9,17 +9,18 @@ Event page: [2026.devfest-berlin.de/vibe-lounge](https://2026.devfest-berlin.de/
 
 | Sprint | Time | Focus |
 |---|---|---|
-| 1 | 10:55 to 11:45 | Backyard Barista & Multimodal Prompts |
-| 2 | 13:00 to 14:00 | Multiplayer Games & Maps AI |
-| 3 | 14:00 to 15:00 | Agentic Workflows & Badge Showcase |
+| 1 | 11:00 to 11:45 | Open build: pick any challenge |
+| 2 | 13:00 to 14:00 | Open build: pick any challenge |
+| 3 | 14:00 to 15:00 | Open build & showcase |
 
 No lounge over lunch (11:45 to 13:00). Each sprint is one batch: everyone starts and finishes together.
 
 ## Challenges
 
-Pick one, or bring your own idea. Each one fits in a single sprint.
+All four run in every sprint, and they are free for every DevFest attendee. Pick whichever you like, or bring your own
+idea. Each one fits in a single sprint.
 
-1. **The Backyard Barista** (start here). A Gemini barista that picks beans, roasts and milk for your taste, then a brew
+1. **The Backyard Barista.** A Gemini barista that picks beans, roasts and milk for your taste, then a brew
    timer, a shopping list and a Firebase recipe journal.
    [Challenge guide](https://docs.google.com/document/d/12Vvc5VPJkHvRzgMgcHdvMFDzxsWtfBZzzoo0Y9HM_8M/edit?tab=t.0)
 2. **Launch your portfolio website with AI.** Describe yourself, let AI Studio build the site, publish it to Cloud Run.
@@ -28,9 +29,6 @@ Pick one, or bring your own idea. Each one fits in a single sprint.
    Cloud Run. [Codelab](https://codelabs.developers.google.com/codelabs/cloud-run/launch-your-web-based-video-game-with-ai)
 4. **Build with Google Maps Platform and AI.** A map explorer with geocoding, Gemini local facts and Maps grounding.
    [Codelab](https://codelabs.developers.google.com/codelabs/cloud-run/build-with-google-maps-platform-and-ai)
-
-   > Heads-up: not recommended as your first challenge. The Maps APIs can ask for a payment method or extra API
-   > enabling. Pick it if you have used Maps Platform before, or after you finish one of the others.
 
 ## What to bring
 
