@@ -66,3 +66,7 @@ starts with building. 😉
    official DevFest 2026 Vibe Lounge badge in the room. 🥳
 
 Share what you built with **#DevFest**, we would love to see it! 🔥
+
+## License
+
+This guide is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse it with credit.
