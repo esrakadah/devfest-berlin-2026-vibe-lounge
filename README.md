@@ -65,8 +65,16 @@ starts with building. 😉
 5. Show it and claim your badge. At the end of the sprint a few people demo their apps, and everyone can claim the
    official DevFest 2026 Vibe Lounge badge in the room. 🥳
 
+## Claim your badge
+
+Scan the code or open [goo.gle/devfest26-vibe-lounge](https://goo.gle/devfest26-vibe-lounge) and sign in with your
+personal Google account. 🏅
+
+[![Claim the DevFest 2026 Vibe Lounge badge: QR code for goo.gle/devfest26-vibe-lounge](assets/vibe-lounge-badge-claim.png)](https://goo.gle/devfest26-vibe-lounge)
+
 Share what you built with **#DevFest**, we would love to see it! 🔥
 
 ## License
 
 This guide is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse it with credit.
+The badge slide in `assets/` is Google's DevFest 2026 organizer material and is not covered by this license.
